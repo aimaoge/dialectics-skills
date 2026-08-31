@@ -4,9 +4,9 @@
 
 | Skill | 版本 | 用途 | 形态 |
 |---|---|---|---|
-| practical-dialectics | 7.0.0 | 复杂难题完整六步分析：对齐 → 摸事实 → 找矛盾 → 定方案 → 迈一步 → 看结果 → 握主动；含完成前自检、技能自评 | 完整版（SKILL.md + references + assets） |
-| three-thoughts | 1.1.0 | 做事前 30 秒–2 分钟快速三思：值不值得 / 怎么做 / 后果与退路 | 单文件 2KB |
-| mao-examples | 1.1.0 | 《毛泽东选集》一至四卷可复用例证资源库，任何 Skill / AI 对话可引用 | 单文件 |
+| practical-dialectics | 7.1.0 | 复杂难题完整六步分析：对齐 → 摸事实 → 找矛盾 → 定方案 → 迈一步 → 看结果 → 握主动；含完成前自检、技能自评 | 完整版（SKILL.md + references + assets） |
+| three-thoughts | 1.2.0 | 做事前 30 秒–2 分钟快速三思：值不值得 / 怎么做 / 后果与退路 | 单文件 2KB |
+| mao-examples | 1.2.0 | 《毛泽东选集》一至四卷可复用例证资源库，任何 Skill / AI 对话可引用 | 单文件 |
 
 ## 三者关系
 - **小事先三思**（three-thoughts），**大事走六步**（practical-dialectics），两个 skill 互相提示切换。
@@ -19,7 +19,8 @@
 三个 skill 均为自然触发（无需记忆关键词）：用户陈述困境、求分析、要做决定、说"三思"即自动启用。
 
 ## 版本记录
-- **v7.0.0 / v1.1.0（当前）**：新增版本号与 MIT LICENSE、mao-examples 引文"原文/大意"格式规范、practical-dialectics 补 AI 侧自评、description 精简、内部例证副本加一致性声明。
+- **v7.1.0 / v1.2.0（当前）**：P2 升级——problem-worksheet 填空工作单接入流程（清僵尸资产）、反馈攒满 10 条自动提出改版建议、three-thoughts 新增 5 个"升级到六步"的明确信号、mao-examples 新增速查索引与使用示例。
+- **v7.0.0 / v1.1.0**：新增版本号与 MIT LICENSE、mao-examples 引文"原文/大意"格式规范、practical-dialectics 补 AI 侧自评、description 精简、内部例证副本加一致性声明。
 
 ## 许可
 MIT License，可自由使用、修改、分发。
